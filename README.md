@@ -90,4 +90,4 @@ https://github.com/hodan2024/Designthinkinggroup4(1).
 ## Links
 
 - **🌐 [GitHub](https://github.com/yourusername)**
-- **🔗 [LinkedIn](https://www.linkedin.com/in/johndoe/)**
+- 🔗https://www.linkedin.com/in/hodan-hassan-4b6728201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtxUwXfvUTOCalZJJOqyr%2Fw%3D%3D
