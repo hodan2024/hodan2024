@@ -1,4 +1,4 @@
-<h3 align="center">I'm HODAN HASSAN ABDILAHI, a first year software engineering student</h3>
+<h3 align="center">I'm Hodan Hassan Abdilahi, a first year software engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hodan2024&label=Profile%20views&color=0e75b6&style=flat" alt="hodan2024" /> </p>
 
@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on [Design thinking project](https://github.com/hodan2024/TIS/blob/main/Design%20thinking%20group%204%20(1).pdf)
 
 - 🌱 I’m currently learning **C++, MySQL**
+
+- 👨‍💻 My current semester courses [Programming technique II,Network communications, Database, Technology information system, Integrity and anti-corruption](Programming technique II,Network communications, Database, Technology information system, Integrity and anti-corruption)
 
 - 📫 How to reach me **abdillahi20@gmail.com**
 
