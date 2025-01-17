@@ -4,20 +4,19 @@
 
 ## About Me
 **👨‍💻 Headline**: First-Year Computer Science (Software Engineering Student) Student  
-**📖 Summary**:  
-I am a passionate and motivated first-year Computer Science student eager to learn and grow in the tech industry.I am excited to build innovative solutions and contribute to the tech community.
+**📖 Summary**:  I am a passionate and motivated first-year Computer Science student eager to learn and grow in the tech industry.I am excited to build innovative solutions and contribute to the tech community.
 
 ---
 
 ## Core
 
 ### 🎓 Education
-- **Bachelor of Science in Computer Science (Software Engineering with Honors)**  
-  UNIVERITI TEKNOLOGI MALAYSIA, Expected Graduation: 2028
+- **Bachelor of Computer Science (Software Engineering with Honours)**  
+  Universiti Teknologi Malaysia, Expected Graduation: 2028
 
 ### 💼 Positions
 - **Student**  
-  [UNIVERSITI TEKNOLOGI MALAYSIA], March 2024 - Present  
+   Universiti Teknologi Malaysia, March 2024 - Present  
   - Engaging in coursework covering programming technique, data, and software engineering principles.
 
 ### 🛠️ Skills
@@ -67,12 +66,15 @@ I am a passionate and motivated first-year Computer Science student eager to lea
 ### 💻 Projects
 - **Basic Airline Ticketing System**  
   A simple console-based project in C++ that allows users to book, modify, and cancel airline tickets.  
-  [Link to Project Repository](https://github.com/yourusername/airline-ticketing-system)
+  (https://github.com/hodan2024/airline-ticketing-system)
 - **Network Design for Faculty of Computing Block N28B**  
-  Designing the network infrastructure for the Faculty of Computing Block N28B, ensuring efficient communication, reliable connections, and scalability for future needs.
+  Designing the network infrastructure for the Faculty of Computing Block N28B, ensuring efficient communication, reliable connections, and scalability for future needs.  
+  (https://github.com/hodan2024/network-design)
+
   
 - **Improvement to MyUTM Portal**  
   Enhancing the MyUTM portal's database to improve user experience, streamline access to academic resources, and provide better performance for students and faculty.
+  (https://github.com/hodan2024/enhancement to Myutm portal)
 
 - **MindSync System for Task Management**  
   A system designed to address common student challenges, including:
@@ -80,6 +82,7 @@ I am a passionate and motivated first-year Computer Science student eager to lea
   - Prioritizing tasks.  
   - Handling sudden changes in assignments.  
   - Balancing academic and personal tasks.
+    
 
 ---
 
