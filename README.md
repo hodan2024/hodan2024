@@ -1,7 +1,7 @@
 # Hodan Hassan Abdilahi
 
 ## About Me
-![Profile Picture](./profile.jpg)
+
 
 - **Headline**: HI there!
 - **Summary**: A paasionate first year software student
