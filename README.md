@@ -1,5 +1,4 @@
-<h1 align="center">Hi👋, I'm HODAN HASSAN ABDILAHI</h1>
-<h3 align="center">A first year software engineering student</h3>
+<h3 align="center">I'm HODAN HASSAN ABDILAHI, a first year software engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hodan2024&label=Profile%20views&color=0e75b6&style=flat" alt="hodan2024" /> </p>
 
@@ -8,10 +7,6 @@
 - 🔭 I’m currently working on [Design thinking project](https://github.com/hodan2024/TIS/blob/main/Design%20thinking%20group%204%20(1).pdf)
 
 - 🌱 I’m currently learning **C++, MySQL**
-
-- 🔭 I’m currently working on [Air ticketing system for programming technique II course: it is a simple user friendly system that makes booking experience much easier.](Air ticketing system)
-
-- 🔭 I’m currently working on [Network Design for Faculty of Computing Block N28B](Network Design for Faculty of Computing Block N28B)
 
 - 📫 How to reach me **abdillahi20@gmail.com**
 
