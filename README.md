@@ -1,7 +1,8 @@
 # Hodan Hassan Abdilahi
 
 ## About Me
-- **Picture**: [Upload your picture](https://guides.github.com/features/mastering-markdown/#syntax) (GitHub doesn't allow direct uploads, so you can add the picture later using GitHub Pages).
+![Profile Picture](./profile.jpg)
+
 - **Headline**: HI there!
 - **Summary**: A paasionate first year software student
 
