@@ -13,7 +13,7 @@
 ## Recommended
 - **Courses**: programming technique II, Database,Network communications, Technology information system.
 -       
-- **Certificates**: (./udemy certificat.pdf)
+- **Certificates**: (./udemy certificate.pdf)
 
 ## Additional
 - **Honors and Awards**: [List any honors]
