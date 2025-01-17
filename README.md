@@ -66,22 +66,23 @@
 ### 💻 Projects
 - **Basic Airline Ticketing System**  
   A simple console-based project in C++ that allows users to book, modify, and cancel airline tickets.  
-  (https://github.com/hodan2024/airline-ticketing-system)
+  https://github.com/hodan2024/airline-ticketing-system
 - **Network Design for Faculty of Computing Block N28B**  
   Designing the network infrastructure for the Faculty of Computing Block N28B, ensuring efficient communication, reliable connections, and scalability for future needs.  
-  (https://github.com/hodan2024/network-design)
-
-  
+  https://github.com/hodan2024/network-design
 - **Improvement to MyUTM Portal**  
   Enhancing the MyUTM portal's database to improve user experience, streamline access to academic resources, and provide better performance for students and faculty.
-  (https://github.com/hodan2024/enhancement to Myutm portal)
+
+    https://github.com/hodan2024/enhancementtoMyutmportal.
+
 
 - **MindSync System for Task Management**  
   A system designed to address common student challenges, including:
   - Tracking deadlines.  
   - Prioritizing tasks.  
   - Handling sudden changes in assignments.  
-  - Balancing academic and personal tasks.
+  - Balancing academic and personal tasks.  
+https://github.com/hodan2024/Designthinkinggroup4(1).
     
 
 ---
