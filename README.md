@@ -89,5 +89,5 @@ https://github.com/hodan2024/Designthinkinggroup4(1).
 
 ## Links
 
-- **🌐 [GitHub Pages Website](https://yourusername.github.io/johndoe-portfolio/)**
+- **🌐 https://hodan2024.github.io/hodan2024/**
 - **🔗 [LinkedIn](https://www.linkedin.com/in/johndoe/)**
