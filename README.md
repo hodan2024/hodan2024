@@ -88,5 +88,5 @@ https://github.com/hodan2024/Designthinkinggroup4(1).
 
 ## Links
 
-- **🌐 [GitHub](https://github.com/yourusername)**
-- 🔗   Linkedin:https://shorturl.at/LvWS2
+- **🌐 [GitHub](https://hodan2024.github.io/hodan2024/)**
+- **🔗 [Linkedin](https://shorturl.at/LvWS2)**
