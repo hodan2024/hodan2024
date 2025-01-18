@@ -60,8 +60,7 @@
 ## Additional
 
 ### 🏅 Honors and Awards
-- **Dean's List**  
-  Recognition for academic excellence, Fall 2024.
+
 
 ### 💻 Projects
 - **Basic Airline Ticketing System**  
