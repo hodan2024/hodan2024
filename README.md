@@ -4,7 +4,7 @@
 
 
 ## About Me
-**👨‍💻 Headline**: First-Year Computer Science (Software Engineering Student) Student  
+**👨‍💻 Headline**: First-Year Computer Science (Software Engineering) Student  
 **📖 Summary**:  I am a passionate and motivated first-year Computer Science student eager to learn and grow in the tech industry.I am excited to build innovative solutions and contribute to the tech community.
 
 ---
